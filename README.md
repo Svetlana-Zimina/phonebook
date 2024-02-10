@@ -20,7 +20,7 @@
 
 1. ### Склонируйте репозиторий:
 ```
-git clone 
+git clone git@github.com:Svetlana-Zimina/phonebook.git
 ```
 
 2. ### Откройте консоль и перейдите в папку проекта:
